@@ -8,7 +8,7 @@
   
 <div class="topnav">
   <a href="https://thefmggroup.github.io">Home</a>
-  <a href="#news">News</a>
+  <a href="https://thefmggroup.github.io/wikiarchive">Wikipedia Archives</a>
   <a class="active" href="#contact">Contact</a>
   <a href="https://thefmggroup.github.io/about">About</a>
 </div> 
